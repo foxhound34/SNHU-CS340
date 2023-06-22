@@ -1,7 +1,7 @@
 # SNHU-CS340
 Client/Server Development
 
-`#0969DA`**How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two.**
+<h1>**How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two.**</h1>
 
   The best way to maintainable, readable, and adaptable code is to follow industry standard coding practices this includes readable code, in-line comments where needed, and using OOP where needed to make the code more modular and managable.  The way I approach building my CRUD file was to first determine I could correctly make a connection between the Jupyter program, my Python file, and the database.  Next, I built one method at a time and tested it as I coded. Then I expanded the methods by adding additional commands. Finally, when an application is working properly I go back and clean up the code by combining, removing, or changing it to be more readable.  I believe in iterative coding which is why I tend to work on one part of the code at a time, this can be problamatic when non-working starter code is given.
 
