@@ -14,5 +14,6 @@ Client/Server Development
   As I stated in a previous question I use iterative coding and take on one task at a time.
   
 <h3>How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?</h3>
+  MongoDB was new to me with this class and learning the query commands was like learning a completely new coding language, add that with not knowing DASH either it was a recipe for trouble.  Taking all this into consideration it was not surprising that I spent 4 days trying to figure out an error I was getting.  In a real world situation I normally would have been able to ask my associates of the senior dev, but when coding alone you are at the mercy of Google, so if nothing else I've gotten much better at scouring the internet for answers.  
 
 <h3>What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?</h3>
