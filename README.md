@@ -9,10 +9,10 @@ Client/Server Development
   
   The advatages of working in the way I do is that I can see issues early on instead of writing dozens of lines of code, only for the prgram to break and not be able to figure out why or have to delete a lot of work I've already done.  The CRUD Python module is very simple in nature and could be used in other databases by simply swapping out the connection commands.
   
-**How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested.**
+<h3>How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested.</h3>
  
   As I stated in a previous question I use iterative coding and take on one task at a time.
   
-**How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
+<h3>How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?</h3>
 
-**What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+<h3>What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?</h3>
